@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Career Counselling AI — Full Stack Application
 
 An AI-powered career counselling platform featuring a modern React frontend and a robust FastAPI backend. Get personalised career advice, resume analysis, and interview preparation through an intuitive chat interface.
