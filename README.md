@@ -107,10 +107,4 @@ The frontend will be available at `http://localhost:5173`.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-=======
-# Career-Assistant
->>>>>>> d4a9d851b7a6bdc784451aa1b0c3d865ebbeab36
