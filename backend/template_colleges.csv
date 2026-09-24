@@ -1,0 +1,4 @@
+name,type,location,state,courses,facilities,placement_stats,scholarships,eligibility_criteria,entrance_exams_accepted,is_blacklisted
+AIIMS Delhi,Government,New Delhi,Delhi,"MBBS:1628:5.5 Years; B.Sc Nursing:1000:4 Years","Hostel, Library, Medical Labs","2500000:5000000:Apollo, Max Healthcare",Institute Merit Scholarship,60:NEET UG,NEET UG,0
+IIT Bombay,Government,Mumbai,Maharashtra,"Computer Science:210000:4 Years; Mechanical:210000:4 Years","Labs, Gym, Wi-Fi, Hostel","1800000:10000000:Google, Microsoft",MCM Scholarship,75:JEE Advanced,JEE Advanced,0
+LSR College,Government,New Delhi,Delhi,"B.A. Economics:15000:3 Years; B.Com:18000:3 Years","Hostel, Library, Cafeteria","800000:3500000:KPMG, Deloitte",Merit Scholarship,95:CUET,CUET,0
